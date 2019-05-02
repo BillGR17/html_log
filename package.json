@@ -1,5 +1,5 @@
 {
-  "name": "html_log",
+  "name": "html_logs",
   "version": "1.0.0",
   "description": "Write log on html and on console.log at once",
   "main": "index.js",
