@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BillGR17/html_log.git"
+    "url": "git+https://github.com/BillGR17/html_logs.git"
   },
   "keywords": [
     "log",
@@ -18,7 +18,7 @@
   "author": "BillGR17",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/BillGR17/html_log/issues"
+    "url": "https://github.com/BillGR17/html_logs/issues"
   },
-  "homepage": "https://github.com/BillGR17/html_log"
+  "homepage": "https://github.com/BillGR17/html_logs"
 }
