@@ -17,7 +17,7 @@ function print(text) {
       "max-height:300px;" +
       "background:#333;" +
       "color:#ddd;" +
-      "overflow: hidden;" +
+      "overflow: auto;" +
       "margin:0;";
     div.id = "debug";
     div.style.cssText = css;
